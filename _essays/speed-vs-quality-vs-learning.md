@@ -12,18 +12,18 @@ date: 2026-05-30
   <!-- diamond accents -->
   <path d="M25 50 L26.5 47 L28 50 L26.5 53 Z" fill="#3a3632" opacity="0.5"/>
   <path d="M175 65 L176.5 62 L178 65 L176.5 68 Z" fill="#3a3632" opacity="0.4"/>
-  <!-- triangle -->
-  <path d="M100 18 L178 168 L22 168 Z" stroke="#9e9484" stroke-width="1.3"/>
+  <!-- asymmetric (scalene) triangle -->
+  <path d="M124 24 L176 138 L26 168 Z" stroke="#9e9484" stroke-width="1.3"/>
   <!-- inner triangle echo -->
-  <path d="M100 38 L162 158 L38 158 Z" stroke="#b8ad9e" stroke-width="0.7" opacity="0.4"/>
+  <path d="M121 43 L161 132 L44 155 Z" stroke="#b8ad9e" stroke-width="0.7" opacity="0.4"/>
   <!-- labels -->
-  <text x="100" y="12" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" font-weight="500" fill="#5a5550" letter-spacing="1.5">SPEED</text>
-  <text x="10" y="182" text-anchor="start" font-family="Inter, sans-serif" font-size="10" font-weight="500" fill="#5a5550" letter-spacing="1.5">QUALITY</text>
-  <text x="190" y="182" text-anchor="end" font-family="Inter, sans-serif" font-size="10" font-weight="500" fill="#5a5550" letter-spacing="1.5">LEARNING</text>
+  <text x="124" y="16" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" font-weight="500" fill="#5a5550" letter-spacing="1.5">SPEED</text>
+  <text x="8" y="182" text-anchor="start" font-family="Inter, sans-serif" font-size="10" font-weight="500" fill="#5a5550" letter-spacing="1.5">QUALITY</text>
+  <text x="196" y="148" text-anchor="end" font-family="Inter, sans-serif" font-size="10" font-weight="500" fill="#5a5550" letter-spacing="1.5">LEARNING</text>
   <!-- tick marks on edges -->
-  <line x1="55" y1="95" x2="60" y2="93" stroke="#b8ad9e" stroke-width="0.7" opacity="0.5"/>
-  <line x1="145" y1="95" x2="140" y2="93" stroke="#b8ad9e" stroke-width="0.7" opacity="0.5"/>
-  <line x1="95" y1="168" x2="95" y2="163" stroke="#b8ad9e" stroke-width="0.7" opacity="0.5"/>
+  <line x1="73" y1="98" x2="78" y2="96" stroke="#b8ad9e" stroke-width="0.7" opacity="0.5"/>
+  <line x1="150" y1="81" x2="145" y2="82" stroke="#b8ad9e" stroke-width="0.7" opacity="0.5"/>
+  <line x1="101" y1="153" x2="101" y2="148" stroke="#b8ad9e" stroke-width="0.7" opacity="0.5"/>
 </svg>
 
 ## Context
