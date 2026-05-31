@@ -1,6 +1,7 @@
 title: Extraordinary Engineer
 description: Stories from startups & engineering
-baseurl: "/extraordinaryengineer"
+baseurl: ""
+url: "https://extraordinaryengineer.com"
 collections:
   essays:
     output: true
