@@ -50,8 +50,8 @@ And protect your own learning deliberately. There is a real value to seeking tho
 
 ## Key Takeaway
 
-- Speed and quality are external and visible; learning is yours alone to protect.
-- If you do not focus on your own learning, your curiosities start to die.
-- Ship to meet the quality barrier — fixing fast is a legitimate quality strategy.
-- AI makes speed cheap but raises expectations tenfold; learning is the lever that lets you keep up.
-- The triangle is not a problem to solve. It is a tension to hold.
+- If you don't focus on your learning, your curiosity starts to die.
+- Your learning is your priority.
+- Speed and quality are the company's priority.
+- AI makes speed cheap but raises expectations tenfold.
+- Learning is the lever that helps you keep up quality.
