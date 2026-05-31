@@ -12,23 +12,28 @@ date: 2026-05-30
   <!-- diamond accents -->
   <path d="M24 60 L25.5 57 L27 60 L25.5 63 Z" fill="#3a3632" opacity="0.5"/>
   <path d="M176 120 L177.5 117 L179 120 L177.5 123 Z" fill="#3a3632" opacity="0.4"/>
-  <!-- clock face -->
-  <circle cx="100" cy="88" r="42" stroke="#9e9484" stroke-width="1.3"/>
-  <circle cx="100" cy="88" r="48" stroke="#b8ad9e" stroke-width="0.6" opacity="0.4"/>
-  <!-- tick marks -->
-  <line x1="100" y1="50" x2="100" y2="55" stroke="#9e9484" stroke-width="0.9" opacity="0.6"/>
-  <line x1="100" y1="121" x2="100" y2="126" stroke="#9e9484" stroke-width="0.9" opacity="0.6"/>
-  <line x1="62" y1="88" x2="67" y2="88" stroke="#9e9484" stroke-width="0.9" opacity="0.6"/>
-  <line x1="133" y1="88" x2="138" y2="88" stroke="#9e9484" stroke-width="0.9" opacity="0.6"/>
-  <!-- hands — spun forward, no time to stop -->
-  <line x1="100" y1="88" x2="100" y2="62" stroke="#9e9484" stroke-width="1.3"/>
-  <line x1="100" y1="88" x2="122" y2="98" stroke="#9e9484" stroke-width="1.3"/>
-  <circle cx="100" cy="88" r="2.5" fill="#9e9484" opacity="0.6"/>
-  <!-- motion arcs — the hand racing ahead -->
-  <path d="M100 58 Q112 59 120 68" stroke="#b8ad9e" stroke-width="0.5" opacity="0.35"/>
-  <path d="M100 54 Q117 56 128 68" stroke="#b8ad9e" stroke-width="0.5" opacity="0.25"/>
-  <!-- a held wave below — feeling left unprocessed -->
-  <path d="M70 150 Q80 142 90 150 Q100 158 110 150 Q120 142 130 150" stroke="#b8ad9e" stroke-width="0.7" opacity="0.4"/>
+  <!-- checkerboard floor -->
+  <rect x="34" y="132" width="96" height="16" stroke="#9e9484" stroke-width="0.9" opacity="0.55"/>
+  <rect x="34" y="132" width="16" height="16" fill="#9e9484" opacity="0.12"/>
+  <rect x="66" y="132" width="16" height="16" fill="#9e9484" opacity="0.12"/>
+  <rect x="98" y="132" width="16" height="16" fill="#9e9484" opacity="0.12"/>
+  <line x1="50" y1="132" x2="50" y2="148" stroke="#9e9484" stroke-width="0.5" opacity="0.4"/>
+  <line x1="66" y1="132" x2="66" y2="148" stroke="#9e9484" stroke-width="0.5" opacity="0.4"/>
+  <line x1="82" y1="132" x2="82" y2="148" stroke="#9e9484" stroke-width="0.5" opacity="0.4"/>
+  <line x1="98" y1="132" x2="98" y2="148" stroke="#9e9484" stroke-width="0.5" opacity="0.4"/>
+  <line x1="114" y1="132" x2="114" y2="148" stroke="#9e9484" stroke-width="0.5" opacity="0.4"/>
+  <!-- the king, standing -->
+  <path d="M60 130 L64 114 Q58 108 63 102 L74 102 Q70 80 76 66 L70 60 Q68 52 82 50 Q96 52 94 60 L88 66 Q94 80 90 102 L101 102 Q106 108 100 114 L104 130 Z" stroke="#9e9484" stroke-width="1.3"/>
+  <!-- cross atop the king -->
+  <line x1="82" y1="50" x2="82" y2="38" stroke="#9e9484" stroke-width="1.1"/>
+  <line x1="77" y1="43" x2="87" y2="43" stroke="#9e9484" stroke-width="1.1"/>
+  <!-- collar and mid bands -->
+  <line x1="69" y1="66" x2="95" y2="66" stroke="#9e9484" stroke-width="0.7" opacity="0.6"/>
+  <line x1="63" y1="102" x2="101" y2="102" stroke="#9e9484" stroke-width="0.7" opacity="0.6"/>
+  <!-- a toppled piece beside the board — checkmate -->
+  <circle cx="150" cy="142" r="5" stroke="#9e9484" stroke-width="1.0" opacity="0.6"/>
+  <path d="M146 145 Q156 150 166 150 Q170 150 170 146 L154 146" stroke="#9e9484" stroke-width="1.0" opacity="0.6"/>
+  <ellipse cx="168" cy="148" rx="4" ry="2" stroke="#9e9484" stroke-width="0.8" opacity="0.5"/>
 </svg>
 
 ## Key Takeaway
