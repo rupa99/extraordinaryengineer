@@ -1,4 +1,4 @@
-# Extraordinary Engineering
+# Extraordinary Engineer
 
 Personal essay site inspired by paulgraham.com. Vestal statue / classical sketch aesthetic.
 
