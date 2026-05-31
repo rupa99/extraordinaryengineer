@@ -32,7 +32,7 @@ date: 2026-05-31
   <path d="M40 140 L172 140" stroke="#9e9484" stroke-width="0.8" opacity="0.45"/>
 </svg>
 
-## Key Takeaway
+## TL;DR
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 - Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

@@ -33,7 +33,7 @@ date: 2026-05-23
   <rect x="80" y="144" width="40" height="5" rx="1" stroke="#b8ad9e" stroke-width="0.8" opacity="0.4"/>
 </svg>
 
-## Key Takeaway
+## TL;DR
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 - Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

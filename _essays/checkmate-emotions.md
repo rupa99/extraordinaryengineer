@@ -36,7 +36,7 @@ date: 2026-05-30
   <ellipse cx="168" cy="148" rx="4" ry="2" stroke="#9e9484" stroke-width="0.8" opacity="0.5"/>
 </svg>
 
-## Key Takeaway
+## TL;DR
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 - Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

@@ -31,7 +31,7 @@ date: 2026-05-21
   <path d="M100 38 A55 55 0 0 1 126 48" stroke="#9e9484" stroke-width="2.5" opacity="0.25"/>
 </svg>
 
-## Key Takeaway
+## TL;DR
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 - Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

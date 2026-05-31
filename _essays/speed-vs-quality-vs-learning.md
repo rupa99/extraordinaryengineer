@@ -26,7 +26,7 @@ date: 2026-05-30
   <line x1="95" y1="168" x2="95" y2="163" stroke="#b8ad9e" stroke-width="0.7" opacity="0.5"/>
 </svg>
 
-## Key Takeaway
+## TL;DR
 
 - If you don't focus on your learning, your curiosity starts to die.
 - Your learning is naturally your priority and the company's is speed and quality — but they feed each other, and your priorities become the company's once you understand how these work and how you can make them work for you.

@@ -31,7 +31,7 @@ date: 2026-05-19
   <text x="142" y="75" font-family="Inter, sans-serif" font-size="13" fill="#9e9484" opacity="0.45">&times;</text>
 </svg>
 
-## Key Takeaway
+## TL;DR
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 - Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

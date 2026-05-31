@@ -26,7 +26,7 @@ date: 2026-05-29
   <circle cx="60" cy="80" r="1.5" stroke="#b8ad9e" stroke-width="0.7" opacity="0.3"/>
 </svg>
 
-## Key Takeaway
+## TL;DR
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 - Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

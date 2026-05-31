@@ -27,7 +27,7 @@ date: 2026-05-31
   <path d="M52 122 Q54 112 66 111 Q78 111 78 120 Q66 128 52 122 Z" stroke="#9e9484" stroke-width="1.0" opacity="0.85"/>
 </svg>
 
-## Key Takeaway
+## TL;DR
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 - Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

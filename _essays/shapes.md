@@ -35,7 +35,7 @@ date: 2026-05-31
   <path d="M46 122 l1.6 -2 1.6 2 -1.6 2 z" fill="#b8ad9e" opacity="0.45"/>
 </svg>
 
-## Key Takeaway
+## TL;DR
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 - Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

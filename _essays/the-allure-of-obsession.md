@@ -26,7 +26,7 @@ date: 2026-05-18
   <line x1="96" y1="88" x2="93" y2="90" stroke="#b8ad9e" stroke-width="0.5" opacity="0.3"/>
 </svg>
 
-## Key Takeaway
+## TL;DR
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 - Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

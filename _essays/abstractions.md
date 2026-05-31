@@ -38,7 +38,7 @@ date: 2026-05-31
   <path d="M156 60 L152 67 M156 60 L160 67" stroke="#b8ad9e" stroke-width="0.7" opacity="0.45"/>
 </svg>
 
-## Key Takeaway
+## TL;DR
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 - Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

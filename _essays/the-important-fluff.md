@@ -37,7 +37,7 @@ date: 2026-05-30
   <line x1="160" y1="72" x2="165" y2="68" stroke="#b8ad9e" stroke-width="0.4" opacity="0.25"/>
 </svg>
 
-## Key Takeaway
+## TL;DR
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 - Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
