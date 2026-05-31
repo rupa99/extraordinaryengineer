@@ -27,6 +27,12 @@ date: 2026-05-20
   <path d="M110 93 L108 96 L112 96" stroke="#9e9484" stroke-width="0.7" opacity="0.4"/>
 </svg>
 
+## Key Takeaway
+
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+
 ## Context
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -40,9 +46,3 @@ Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed 
 ## Solution
 
 Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.
-
-## Key Takeaway
-
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-- Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.

@@ -1,33 +1,37 @@
 ---
 layout: essay
-title: Boundaries, Prioritization, Joy
-date: 2026-05-30
+title: You Are the Startup
+date: 2026-05-31
 ---
 
 <svg width="200" height="180" viewBox="0 0 200 180" fill="none" stroke-linecap="round" stroke-linejoin="round" style="display:block;margin:0 0 28px 0;">
   <!-- soft background blobs -->
   <ellipse cx="100" cy="90" rx="58" ry="55" fill="#f0ebe4" opacity="0.6"/>
-  <ellipse cx="66" cy="72" rx="24" ry="26" fill="#e8d4c8" opacity="0.2"/>
+  <ellipse cx="68" cy="70" rx="24" ry="26" fill="#e8d4c8" opacity="0.2"/>
   <ellipse cx="140" cy="112" rx="26" ry="24" fill="#e8d8b8" opacity="0.25"/>
   <!-- diamond accents -->
   <path d="M24 58 L25.5 55 L27 58 L25.5 61 Z" fill="#3a3632" opacity="0.5"/>
-  <path d="M176 122 L177.5 119 L179 122 L177.5 125 Z" fill="#3a3632" opacity="0.4"/>
-  <!-- boundary: a drawn frame holding everything in -->
-  <rect x="50" y="44" width="100" height="92" stroke="#9e9484" stroke-width="1.3"/>
-  <rect x="55" y="49" width="90" height="82" stroke="#b8ad9e" stroke-width="0.5" opacity="0.4"/>
-  <!-- prioritization: a ranked stack, largest first -->
-  <path d="M68 118 L132 118" stroke="#9e9484" stroke-width="1.3"/>
-  <path d="M74 106 L126 106" stroke="#9e9484" stroke-width="1.0" opacity="0.8"/>
-  <path d="M80 95 L120 95" stroke="#9e9484" stroke-width="1.0" opacity="0.6"/>
-  <path d="M86 85 L114 85" stroke="#9e9484" stroke-width="0.9" opacity="0.45"/>
-  <!-- joy: a small radiant spark crowning the stack -->
-  <circle cx="100" cy="68" r="4" stroke="#9e9484" stroke-width="1.1"/>
-  <line x1="100" y1="60" x2="100" y2="56" stroke="#9e9484" stroke-width="0.9" opacity="0.7"/>
-  <line x1="100" y1="80" x2="100" y2="84" stroke="#b8ad9e" stroke-width="0.6" opacity="0.4"/>
-  <line x1="92" y1="68" x2="88" y2="68" stroke="#9e9484" stroke-width="0.9" opacity="0.7"/>
-  <line x1="108" y1="68" x2="112" y2="68" stroke="#9e9484" stroke-width="0.9" opacity="0.7"/>
-  <line x1="94" y1="62" x2="91" y2="59" stroke="#b8ad9e" stroke-width="0.6" opacity="0.5"/>
-  <line x1="106" y1="62" x2="109" y2="59" stroke="#b8ad9e" stroke-width="0.6" opacity="0.5"/>
+  <path d="M176 120 L177.5 117 L179 120 L177.5 123 Z" fill="#3a3632" opacity="0.4"/>
+  <!-- a figure: the person who is the venture -->
+  <circle cx="72" cy="58" r="11" stroke="#9e9484" stroke-width="1.3"/>
+  <path d="M72 69 L72 112" stroke="#9e9484" stroke-width="1.3"/>
+  <path d="M72 78 L56 96" stroke="#9e9484" stroke-width="1.3"/>
+  <path d="M72 78 L88 92" stroke="#9e9484" stroke-width="1.3"/>
+  <path d="M72 112 L60 140" stroke="#9e9484" stroke-width="1.3"/>
+  <path d="M72 112 L84 140" stroke="#9e9484" stroke-width="1.3"/>
+  <!-- ground line -->
+  <path d="M40 140 L150 140" stroke="#9e9484" stroke-width="0.9" opacity="0.5"/>
+  <!-- growth bars rising beside the figure -->
+  <rect x="104" y="118" width="9" height="22" stroke="#9e9484" stroke-width="0.9" opacity="0.6"/>
+  <rect x="118" y="102" width="9" height="38" stroke="#9e9484" stroke-width="1.0" opacity="0.75"/>
+  <rect x="132" y="80" width="9" height="60" stroke="#9e9484" stroke-width="1.1"/>
+  <!-- the figure's reach becomes the trajectory -->
+  <path d="M88 92 Q112 78 138 52" stroke="#9e9484" stroke-width="1.1"/>
+  <!-- arrowhead on the trajectory -->
+  <path d="M138 52 L131 53 M138 52 L137 59" stroke="#9e9484" stroke-width="1.1"/>
+  <!-- a small spark at the apex -->
+  <line x1="142" y1="48" x2="145" y2="45" stroke="#b8ad9e" stroke-width="0.6" opacity="0.45"/>
+  <line x1="140" y1="44" x2="140" y2="40" stroke="#b8ad9e" stroke-width="0.6" opacity="0.45"/>
 </svg>
 
 ## Key Takeaway
