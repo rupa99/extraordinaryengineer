@@ -1,6 +1,6 @@
 ---
 layout: essay
-title: The Value of Five Minutes
+title: Everything I Can Do in Five Minutes
 date: 2026-05-21
 ---
 
