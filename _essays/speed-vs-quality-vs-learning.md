@@ -37,17 +37,23 @@ date: 2026-05-30
 
 ## Context
 
-Speed is how fast you go. Quality is how good the thing is. Learning is how much you know about the thing itself. At a startup, you are always navigating the tension between the three.
+At a startup, you are always navigating the tension between three things — speed, quality, and learning.
 
 ### Speed
+
+**Definition:** how fast you go.
 
 Speed is the most visible of the three. It is what everyone can see and measure — how fast you ship, how fast you respond, how fast you fix what breaks. The company rewards it because it is immediately useful to everyone around you.
 
 ### Quality
 
-Quality is how good the thing actually is. It is also external — it belongs to the company and its output, not to you. Like speed, it is something other people can point at and judge, so it gets prioritized.
+**Definition:** how good the thing is.
+
+Quality is external — it belongs to the company and its output, not to you. Like speed, it is something other people can point at and judge, so it gets prioritized.
 
 ### Learning
+
+**Definition:** how much you know about the thing itself.
 
 Learning is the one that gets abstracted away. It is a selfish desire, and the incentive to pursue it is entirely up to you. And now there is barely a reason to really learn anything, because you can just ask the AI to fix something and it will do it. There is no incentive to learn because companies don't incentivize your own learning; they incentivize the speed and quality of the output, and so the responsibility of learning is truly on you. These systems are smarter than you, so what does it even matter that you learn? That is the fundamental question.
 
