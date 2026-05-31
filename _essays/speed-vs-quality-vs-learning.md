@@ -30,7 +30,7 @@ date: 2026-05-30
 
 - If you don't focus on your learning, your curiosity starts to die.
 - Your learning is naturally your priority and the company's is speed and quality — but they feed each other, and your priorities become the company's once you understand how these work and how you can make them work for you.
-- AI makes speed cheap but raises expectations tenfold.
+- AI makes speed cheap but raises expectations 100x.
 - Learning is the lever that helps you keep up quality.
 - The triangle is not a problem to solve but a framework you operate in — these are the constraints in which you work.
 
@@ -44,7 +44,7 @@ We value all three, but learning is the one that gets abstracted away. Speed and
 
 The reality is companies want both 100% speed and 100% quality. But we are not superhuman. Where we lack in quality we try to make up for in speed, and where we lack in speed we try to make up for in quality. And if things do not make up for quality, we just try to fix it as fast as possible.
 
-Startups prioritize speed at unprecedented rates while telling you that quality is the most important thing. Now with AI, speed can happen at rates nobody expected. The expectations are tenfold, which can cause real anxiety — especially if you do not have your tooling right, or you are not experienced, or people do not actually tell you what to do.
+Startups prioritize speed at unprecedented rates while telling you that quality is the most important thing. Now with AI, speed can happen at rates nobody expected. AI has increased our productivity, but it has also created more stressed-out people and a greater need to work more. Speed has accelerated not just tenfold but 100x, which can cause real anxiety — especially if you do not have your tooling right, or you are not experienced, or people do not actually tell you what to do.
 
 And in all of this, your own learning gets overshadowed by the demands of making the company succeed. If you do not focus on it, something happens. Your curiosities start to die. Exploring them starts to feel pointless. You can feel dead inside.
 
