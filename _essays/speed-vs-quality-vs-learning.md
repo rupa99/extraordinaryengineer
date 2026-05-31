@@ -26,16 +26,32 @@ date: 2026-05-30
   <line x1="95" y1="168" x2="95" y2="163" stroke="#b8ad9e" stroke-width="0.7" opacity="0.5"/>
 </svg>
 
+## Context
+
 Speed is how fast you go. Quality is how good the thing is. Learning is how much you know about the thing itself. At a startup, you are always navigating the tension between the three.
 
-We value all three, but learning is the one that gets abstracted away. It is a selfish desire. Speed and quality are external desires that pertain to the company itself. Your own learning gets overshadowed by the demands of making the company succeed. Speed and quality are prioritized over learning because they are visible, measurable, and immediately useful to everyone around you. The incentive to learn is all up to you. Whether that matters to you at all is a question only you can answer.
+We value all three, but learning is the one that gets abstracted away. Speed and quality are external desires that pertain to the company itself — they are visible, measurable, and immediately useful to everyone around you. Learning is a selfish desire, and the incentive to pursue it is all up to you. Whether that matters to you at all is a question only you can answer.
 
-If you do not focus on your own learning, something happens. Your curiosities start to die. Exploring them starts to feel pointless. You can feel dead inside. There is a real value to seeking those curiosities out, even when nobody is asking you to. And the value is showing that you value yourself.
+## Problem
 
 The reality is companies want both 100% speed and 100% quality. But we are not superhuman. Where we lack in quality we try to make up for in speed, and where we lack in speed we try to make up for in quality. And if things do not make up for quality, we just try to fix it as fast as possible.
 
-Startups prioritize speed at unprecedented rates while telling you that quality is the most important thing. Sometimes what is truly important is speed and fixing things also at great speed when quality breaks down. That is how you meet the quality barrier. If you spend too much time perfecting quality and you never get things out, there is no way to see how people respond to it.
+Startups prioritize speed at unprecedented rates while telling you that quality is the most important thing. Now with AI, speed can happen at rates nobody expected. The expectations are tenfold, which can cause real anxiety — especially if you do not have your tooling right, or you are not experienced, or people do not actually tell you what to do.
 
-Now with AI, speed can happen at rates nobody expected. The expectations are tenfold, which can cause real anxiety, especially if you do not have your tooling right, or you are not experienced, or people do not actually tell you what to do. There is a learning curve to speed itself. You often need to increase your learning of the concepts in order to do things more effectively and quickly.
+And in all of this, your own learning gets overshadowed by the demands of making the company succeed. If you do not focus on it, something happens. Your curiosities start to die. Exploring them starts to feel pointless. You can feel dead inside.
 
-All three of these things combined create a startup dilemma. You are always trying to understand whether or not you are on the right track. It is a give and take of one versus the other, depending on the situation. The triangle is not a problem to solve. It is a tension to hold.
+## Solution
+
+There is a learning curve to speed itself. You often need to increase your learning of the concepts in order to do things more effectively and quickly — so learning is not opposed to speed, it is what unlocks it.
+
+Sometimes what is truly important is speed, and fixing things also at great speed when quality breaks down. That is how you meet the quality barrier. If you spend too much time perfecting quality and you never get things out, there is no way to see how people respond to it.
+
+And protect your own learning deliberately. There is a real value to seeking those curiosities out, even when nobody is asking you to. The value is in showing that you value yourself.
+
+## Key Takeaway
+
+- Speed and quality are external and visible; learning is yours alone to protect.
+- If you do not focus on your own learning, your curiosities start to die.
+- Ship to meet the quality barrier — fixing fast is a legitimate quality strategy.
+- AI makes speed cheap but raises expectations tenfold; learning is the lever that lets you keep up.
+- The triangle is not a problem to solve. It is a tension to hold.
