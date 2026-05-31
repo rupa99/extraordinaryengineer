@@ -57,3 +57,4 @@ The triangle is not a problem to solve but a framework you operate in, where som
 - Speed and quality are the company's priority.
 - AI makes speed cheap but raises expectations tenfold.
 - Learning is the lever that helps you keep up quality.
+- The triangle is not a problem to solve but a framework you operate in — these are the constraints in which you work.
