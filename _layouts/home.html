@@ -134,8 +134,14 @@ layout: default
 <div class="section-ornament">&mdash; &middot; &mdash;</div>
 
 <ul class="essay-list">
+{% assign featured = site.essays | where: "title", "Speed vs Quality vs Learning" | first %}
+{% if featured %}
+  <li><a href="{{ featured.url | prepend: site.baseurl }}">{{ featured.title }}</a></li>
+{% endif %}
 {% for essay in site.essays reversed %}
+  {% unless essay.url == featured.url %}
   <li><a href="{{ essay.url | prepend: site.baseurl }}">{{ essay.title }}</a></li>
+  {% endunless %}
 {% endfor %}
 </ul>
 
