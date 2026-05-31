@@ -26,12 +26,14 @@ date: 2026-05-30
   <line x1="95" y1="168" x2="95" y2="163" stroke="#b8ad9e" stroke-width="0.7" opacity="0.5"/>
 </svg>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Speed is how fast you go. Quality is how good the thing is. Learning is how much you know about the thing itself. At a startup, you are always navigating the tension between the three.
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+We value all three, but learning is the one that gets abstracted away. It is a selfish desire. Speed and quality are external desires that pertain to the company itself. Your own learning gets overshadowed by the demands of making the company succeed. Speed and quality are prioritized over learning because they are visible, measurable, and immediately useful to everyone around you. The incentive to learn is all up to you. Whether that matters to you at all is a question only you can answer.
 
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+If you do not focus on your own learning, something happens. Your curiosities start to die. Exploring them starts to feel pointless. You can feel dead inside. There is a real value to seeking those curiosities out, even when nobody is asking you to.
 
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur.
+When it comes to speed, startups prioritize it at unprecedented rates while telling you that quality is the most important thing. Sometimes what is truly important is speed and fixing things also at great speed when quality breaks down. That is how you meet the quality barrier. If you spend too much time perfecting quality and you never get things out, there is no way to see how people respond to it.
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.
+Now with AI, speed can happen at rates nobody expected. The expectations are tenfold, which can cause real anxiety, especially if you do not have your tooling right, or you are not experienced, or people do not actually tell you what to do. There is a learning curve to speed itself. You often need to increase your learning of the concepts in order to do things more effectively and quickly.
+
+All three of these things combined create a startup dilemma. You are always trying to understand whether or not you are on the right track. It is a give and take of one versus the other, depending on the situation. The triangle is not a problem to solve. It is a tension to hold.
