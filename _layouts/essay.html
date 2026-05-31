@@ -1,0 +1,111 @@
+---
+layout: default
+---
+<style>
+  h1.essay-title {
+    font-size: 20px;
+    font-weight: 400;
+    color: #4a4540;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin: 0;
+  }
+  .title-rule {
+    width: 140px;
+    margin: 8px 0 4px 0;
+    border: none;
+    border-top: 1px solid #b8b0a0;
+    position: relative;
+    height: 4px;
+  }
+  .title-rule::after {
+    content: "";
+    display: block;
+    width: 140px;
+    border-top: 1px solid #c8c0b4;
+    position: absolute;
+    bottom: 0;
+  }
+  .date {
+    font-size: 12px;
+    font-weight: 400;
+    color: #9a9088;
+    margin-bottom: 24px;
+    letter-spacing: 1px;
+  }
+  .body-text {
+    border-left: 1px solid #d8d0c4;
+    padding-left: 20px;
+    position: relative;
+  }
+  .body-text::before {
+    content: "";
+    position: absolute;
+    left: 3px;
+    top: 0;
+    bottom: 0;
+    border-left: 1px solid #e4dcd4;
+  }
+  .body-text p {
+    font-size: 14.5px;
+    line-height: 1.75;
+    margin-bottom: 16px;
+    color: #3a3632;
+    font-weight: 400;
+  }
+  .body-text p:first-child::first-letter {
+    float: left;
+    font-size: 48px;
+    line-height: 38px;
+    padding-right: 6px;
+    padding-top: 4px;
+    color: #5a5550;
+    font-weight: 300;
+  }
+  .essay-end {
+    margin-top: 32px;
+    padding-top: 12px;
+  }
+  .essay-end::before {
+    content: "";
+    display: block;
+    width: 60px;
+    border-top: 1px solid #c8c0b0;
+    margin-bottom: 6px;
+  }
+  .essay-end-mark {
+    color: #c0b8a8;
+    font-size: 12px;
+    letter-spacing: 4px;
+  }
+  .back {
+    display: inline-block;
+    margin-top: 24px;
+    font-size: 11px;
+    font-weight: 500;
+    color: #8a8278;
+    text-decoration: none;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    border-bottom: 1px solid #d0c8b8;
+    padding-bottom: 2px;
+  }
+  .back:hover {
+    color: #4a4540;
+    border-bottom-color: #8a8070;
+  }
+</style>
+
+<h1 class="essay-title">{{ page.title }}</h1>
+<hr class="title-rule">
+<p class="date">{{ page.date | date: "%B %Y" }}</p>
+
+<div class="body-text">
+  {{ content }}
+</div>
+
+<div class="essay-end">
+  <span class="essay-end-mark">&loz; &loz; &loz;</span>
+</div>
+
+<a class="back" href="{{ site.baseurl }}/">&larr; back to essays</a>
