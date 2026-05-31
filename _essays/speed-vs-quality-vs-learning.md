@@ -30,7 +30,7 @@ Speed is how fast you go. Quality is how good the thing is. Learning is how much
 
 We value all three, but learning is the one that gets abstracted away. It is a selfish desire. Speed and quality are external desires that pertain to the company itself. Your own learning gets overshadowed by the demands of making the company succeed. Speed and quality are prioritized over learning because they are visible, measurable, and immediately useful to everyone around you. The incentive to learn is all up to you. Whether that matters to you at all is a question only you can answer.
 
-If you do not focus on your own learning, something happens. Your curiosities start to die. Exploring them starts to feel pointless. You can feel dead inside. There is a real value to seeking those curiosities out, even when nobody is asking you to.
+If you do not focus on your own learning, something happens. Your curiosities start to die. Exploring them starts to feel pointless. You can feel dead inside. There is a real value to seeking those curiosities out, even when nobody is asking you to. And the value is showing that you value yourself.
 
 When it comes to speed, startups prioritize it at unprecedented rates while telling you that quality is the most important thing. Sometimes what is truly important is speed and fixing things also at great speed when quality breaks down. That is how you meet the quality barrier. If you spend too much time perfecting quality and you never get things out, there is no way to see how people respond to it.
 
