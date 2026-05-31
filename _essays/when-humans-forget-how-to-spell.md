@@ -1,6 +1,6 @@
 ---
 layout: essay
-title: When Humans Stop Reading Essays
+title: When Humans Forget How to Spell
 date: 2026-05-31
 ---
 
