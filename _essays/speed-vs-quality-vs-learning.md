@@ -32,7 +32,9 @@ We value all three, but learning is the one that gets abstracted away. It is a s
 
 If you do not focus on your own learning, something happens. Your curiosities start to die. Exploring them starts to feel pointless. You can feel dead inside. There is a real value to seeking those curiosities out, even when nobody is asking you to. And the value is showing that you value yourself.
 
-When it comes to speed, startups prioritize it at unprecedented rates while telling you that quality is the most important thing. Sometimes what is truly important is speed and fixing things also at great speed when quality breaks down. That is how you meet the quality barrier. If you spend too much time perfecting quality and you never get things out, there is no way to see how people respond to it.
+The reality is companies want both 100% speed and 100% quality. But we are not superhuman. Where we lack in quality we try to make up for in speed, and where we lack in speed we try to make up for in quality. And if things do not make up for quality, we just try to fix it as fast as possible.
+
+Startups prioritize speed at unprecedented rates while telling you that quality is the most important thing. Sometimes what is truly important is speed and fixing things also at great speed when quality breaks down. That is how you meet the quality barrier. If you spend too much time perfecting quality and you never get things out, there is no way to see how people respond to it.
 
 Now with AI, speed can happen at rates nobody expected. The expectations are tenfold, which can cause real anxiety, especially if you do not have your tooling right, or you are not experienced, or people do not actually tell you what to do. There is a learning curve to speed itself. You often need to increase your learning of the concepts in order to do things more effectively and quickly.
 
