@@ -29,7 +29,7 @@ date: 2026-05-30
 ## Key Takeaway
 
 - If you don't focus on your learning, your curiosity starts to die.
-- Your learning is naturally your priority and the company's is speed and quality — but they feed each other, and your priorities become the company's once you understand and adopt the incentives you operate in.
+- Your learning is naturally your priority and the company's is speed and quality — but they feed each other, and your priorities become the company's once you understand how these work and how you can make them work for you.
 - AI makes speed cheap but raises expectations tenfold.
 - Learning is the lever that helps you keep up quality.
 - The triangle is not a problem to solve but a framework you operate in — these are the constraints in which you work.
