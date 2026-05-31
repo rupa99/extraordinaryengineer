@@ -40,19 +40,17 @@
       width: 0;
       border-right: 1px solid #d0c8b8;
     }
-    #sidebar a {
+    #sidebar span.nav-label {
       display: block;
       padding: 5px 12px;
       font-size: 11px;
       font-weight: 500;
-      color: #6a6258;
-      text-decoration: none;
+      color: #2a2420;
       letter-spacing: 1.5px;
       text-transform: uppercase;
       margin-bottom: 1px;
-      position: relative;
+      cursor: default;
     }
-    #sidebar a:hover { color: #2a2420; }
     .sidebar-ornament {
       display: block;
       text-align: center;
@@ -86,8 +84,7 @@
 <body>
   <div id="wrapper">
     <div id="sidebar">
-      <a href="{{ site.baseurl }}/">Essays</a>
-      <a href="{{ site.baseurl }}/about">About</a>
+      <span class="nav-label">Essays</span>
       <span class="sidebar-ornament">///</span>
       <svg width="60" height="80" viewBox="0 0 60 80" fill="none" stroke="#b8ad9e" stroke-width="0.6" style="display:block;margin:16px auto 0;opacity:0.5">
         <path d="M16 12 Q10 8 14 4 Q18 2 20 6"/>
