@@ -1,6 +1,6 @@
 ---
 layout: essay
-title: Values for Working
+title: Forced to Adapt
 date: 2026-05-26
 ---
 
