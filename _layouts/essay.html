@@ -78,6 +78,18 @@ layout: default
     font-size: 12px;
     letter-spacing: 4px;
   }
+  .essay-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  .word-count {
+    font-size: 11px;
+    color: #b8ad9e;
+    letter-spacing: 1px;
+    white-space: nowrap;
+    margin-top: 4px;
+  }
   .back {
     display: inline-block;
     margin-top: 24px;
@@ -96,9 +108,14 @@ layout: default
   }
 </style>
 
-<h1 class="essay-title">{{ page.title }}</h1>
-<hr class="title-rule">
-<p class="date">{{ page.date | date: "%B %Y" }}</p>
+<div class="essay-header">
+  <div>
+    <h1 class="essay-title">{{ page.title }}</h1>
+    <hr class="title-rule">
+    <p class="date">{{ page.date | date: "%B %Y" }}</p>
+  </div>
+  <span class="word-count">{% assign words = content | strip_html | number_of_words %}{{ words }} words</span>
+</div>
 
 <div class="body-text">
   {{ content }}
