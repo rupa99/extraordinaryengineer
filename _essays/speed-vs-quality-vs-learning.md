@@ -48,6 +48,8 @@ Sometimes what is truly important is speed, and fixing things also at great spee
 
 And protect your own learning deliberately. There is a real value to seeking those curiosities out, even when nobody is asking you to. The value is in showing that you value yourself.
 
+The triangle is not a problem to solve but a framework you operate in, where sometimes you are skewed to one side or the other. These are the constraints in which you work.
+
 ## Key Takeaway
 
 - If you don't focus on your learning, your curiosity starts to die.
