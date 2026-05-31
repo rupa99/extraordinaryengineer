@@ -26,12 +26,12 @@ date: 2026-05-30
   <line x1="95" y1="168" x2="95" y2="163" stroke="#b8ad9e" stroke-width="0.7" opacity="0.5"/>
 </svg>
 
-At every startup I have worked at, there is a triangle you cannot escape. Speed, quality, and learning. You get to pick two. Sometimes you only get one.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-Early on, everyone picks speed. Ship it. Get it out the door. See if anyone cares. Quality suffers, but that is the point. You are not building a cathedral. You are testing whether anyone wants a building at all.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
 
-But something happens when you only optimize for speed. You stop learning. You ship the same patterns, make the same mistakes, build the same brittle systems. You move fast, but you move fast in circles.
+Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
 
-The teams I have seen do the best work hold the tension between all three. They ship fast, but they also pause to ask what they learned. They care about quality, but not so much that nothing ever leaves the building.
+Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur.
 
-The triangle is not a problem to solve. It is a trade-off to navigate. And the best engineers I know are the ones who can feel which corner to lean toward on any given day.
+At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.
