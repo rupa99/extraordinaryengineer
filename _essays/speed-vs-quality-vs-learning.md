@@ -29,6 +29,7 @@ date: 2026-05-30
 ## TL;DR
 
 - If you don't focus on your learning, your curiosity starts to die.
+- When AI can fix anything you ask and these systems are smarter than you, the real question becomes why learn at all — and no one but you has the incentive to answer it.
 - Your learning is naturally your priority and the company's is speed and quality — but they feed each other, and your priorities become the company's once you understand how these work and how you can make them work for you.
 - AI makes speed cheap but raises expectations 100x.
 - Learning is the lever that helps you keep up quality.
@@ -38,7 +39,17 @@ date: 2026-05-30
 
 Speed is how fast you go. Quality is how good the thing is. Learning is how much you know about the thing itself. At a startup, you are always navigating the tension between the three.
 
-We value all three, but learning is the one that gets abstracted away. Speed and quality are external desires that pertain to the company itself — they are visible, measurable, and immediately useful to everyone around you. Learning is a selfish desire, and the incentive to pursue it is all up to you. Whether that matters to you at all is a question only you can answer.
+### Speed
+
+Speed is the most visible of the three. It is what everyone can see and measure — how fast you ship, how fast you respond, how fast you fix what breaks. The company rewards it because it is immediately useful to everyone around you.
+
+### Quality
+
+Quality is how good the thing actually is. It is also external — it belongs to the company and its output, not to you. Like speed, it is something other people can point at and judge, so it gets prioritized.
+
+### Learning
+
+Learning is the one that gets abstracted away. It is a selfish desire, and the incentive to pursue it is entirely up to you. And now there is barely a reason to really learn anything, because you can just ask the AI to fix something and it will do it. There is no incentive to learn because companies don't incentivize your own learning; they incentivize the speed and quality of the output, and so the responsibility of learning is truly on you. These systems are smarter than you, so what does it even matter that you learn? That is the fundamental question.
 
 ## Problem
 

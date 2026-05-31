@@ -1,6 +1,6 @@
 ---
 layout: essay
-title: The Important Fluff
+title: Fluff
 date: 2026-05-30
 ---
 
