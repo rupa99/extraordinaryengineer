@@ -53,8 +53,7 @@ The triangle is not a problem to solve but a framework you operate in, where som
 ## Key Takeaway
 
 - If you don't focus on your learning, your curiosity starts to die.
-- Your learning is your priority.
-- Speed and quality are the company's priority.
+- Your learning is naturally your priority, and speed and quality are naturally the company's priorities — but they feed each other: focusing on speed can help you learn more, and asking more questions can improve quality, which improves your learning. Your priorities can become the company's priorities once you understand the incentives in which you operate and adopt the priorities of the environment.
 - AI makes speed cheap but raises expectations tenfold.
 - Learning is the lever that helps you keep up quality.
 - The triangle is not a problem to solve but a framework you operate in — these are the constraints in which you work.
