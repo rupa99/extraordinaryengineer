@@ -39,78 +39,30 @@ At a startup, everyone understands that growth is not immediate.
 
 Nobody expects a startup to become exceptional overnight. Everyone understands that growth is messy, that progress is uneven, and that meaningful things take time to build. A startup is allowed to make mistakes, learn from them, and keep moving forward.
 
-Because of this, people invest in it.
+Because of this, people invest in it. They invest in better systems, better processes, better tooling, and better infrastructure. They spend time cleaning things up, fixing things that are broken, and creating foundations that will pay off months later. They willingly make investments today because they believe in what the company can become tomorrow.
 
-They invest in better systems, better processes, better tooling, and better infrastructure. They spend time cleaning things up, fixing things that are broken, and creating foundations that will pay off months later. They willingly make investments today because they believe in what the company can become tomorrow.
-
-Yet many people do not extend that same thinking to themselves.
-
-They are patient with the startup but impatient with their own growth. They are willing to invest in the startup's future while neglecting their own. They understand that the company needs maintenance, yet view their own maintenance as optional.
+Yet many people do not extend that same thinking to themselves. They are patient with the startup but impatient with their own growth. They are willing to invest in the startup's future while neglecting their own. They understand that the company needs maintenance, yet view their own maintenance as optional.
 
 ## Problem
 
-The startup is allowed to learn.
+The startup is allowed to learn, but somehow you are not.
 
-You often are not.
+When the company lacks knowledge, people call it research. When the company experiments, people call it iteration. When the company struggles, people understand that growth takes time. Yet when you find yourself in those same situations, it is easy to come to very different conclusions. When you do not know something, you call yourself behind. When you experiment, you worry that you are wasting time. When you struggle, you wonder what is wrong with you.
 
-When the company lacks knowledge, people call it research.
+Over time, this creates a strange imbalance. You become deeply invested in the startup's development while becoming disconnected from your own. The startup gets a roadmap, investment, maintenance, patience, and room to grow. It is treated like something valuable that deserves long-term thinking and deliberate care. You often do not extend that same generosity to yourself.
 
-When you lack knowledge, you call yourself behind.
-
-When the company experiments, people call it iteration.
-
-When you experiment, you worry that you are wasting time.
-
-When the company struggles, people understand that growth takes time.
-
-When you struggle, you wonder what is wrong with you.
-
-Over time, this creates a strange imbalance.
-
-You become deeply invested in the startup's development while becoming disconnected from your own.
-
-The startup gets a roadmap.
-
-The startup gets investment.
-
-The startup gets maintenance.
-
-The startup gets patience.
-
-The startup gets room to grow.
-
-You often do not.
-
-And eventually you begin treating yourself like something to be spent instead of something to be developed.
+Eventually, you begin treating yourself like something to be spent instead of something to be developed. All of your energy goes toward building the startup, while very little goes toward building the person responsible for building it.
 
 ## Solution
 
 Treat yourself the way you treat the startup.
 
-Let yourself grow scrappily.
-
-A startup does not become successful because somebody demanded perfection from it on day one. It becomes successful because people continue investing in it despite uncertainty, mistakes, and slow progress.
+A startup does not become successful because somebody demanded perfection from it on day one. It becomes successful because people continue investing in it despite uncertainty, mistakes, and slow progress. They understand that growth compounds, that infrastructure matters, and that the work being done today is often in service of a future version that does not exist yet.
 
 Do the same for yourself.
 
-Show up prepared for your own growth.
+Show up prepared for your own growth. Prioritize what is happening inside you the same way you prioritize what is happening inside the company. Maintain yourself the way you maintain systems. Exercise because energy is infrastructure. Rest because recovery is infrastructure. Protect your curiosity because learning is infrastructure. Invest in yourself because growth compounds too.
 
-Prioritize what is happening inside you the same way you prioritize what is happening inside the company.
+The startup is valuable not because of what it is today, but because of what it can become. The same is true for you.
 
-Maintain yourself the way you maintain systems.
-
-Exercise because energy is infrastructure.
-
-Rest because recovery is infrastructure.
-
-Protect your curiosity because learning is infrastructure.
-
-Invest in yourself because growth compounds.
-
-The startup is valuable not because of what it is today, but because of what it can become.
-
-The same is true for you.
-
-And if you believe the startup deserves patience, maintenance, investment, and long-term thinking, then you should believe the same about yourself.
-
-Because every day you show up to build the startup, whether you realize it or not, you are also building the person who is building it.
+And if you believe the startup deserves patience, maintenance, investment, and long-term thinking, then you should believe the same about yourself. Because every day you show up to build the startup, whether you realize it or not, you are also building the person who is building it.
