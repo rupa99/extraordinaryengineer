@@ -1,4 +1,5 @@
 ---
+published: false
 layout: essay
 title: The Allure of Obsession
 date: 2026-05-18

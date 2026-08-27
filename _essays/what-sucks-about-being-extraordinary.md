@@ -1,4 +1,5 @@
 ---
+published: false
 layout: essay
 title: What Sucks About Being Extraordinary
 date: 2026-05-30

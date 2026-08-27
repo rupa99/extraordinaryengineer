@@ -1,4 +1,5 @@
 ---
+published: false
 layout: essay
 title: I Need New Powers
 date: 2026-05-24

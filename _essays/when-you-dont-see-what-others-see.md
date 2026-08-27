@@ -1,4 +1,5 @@
 ---
+published: false
 layout: essay
 title: When You Don't See What Others See
 date: 2026-05-31

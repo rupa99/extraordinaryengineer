@@ -1,4 +1,5 @@
 ---
+published: false
 layout: essay
 title: When Humans Forget How to Spell
 date: 2026-05-31

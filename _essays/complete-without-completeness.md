@@ -1,4 +1,5 @@
 ---
+published: false
 layout: essay
 title: Complete Without Completeness
 date: 2026-05-27

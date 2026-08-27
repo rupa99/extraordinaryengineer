@@ -1,4 +1,5 @@
 ---
+published: false
 layout: essay
 title: Getting Rich Enough to File a Divorce
 date: 2026-05-31

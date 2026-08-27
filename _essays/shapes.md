@@ -1,4 +1,5 @@
 ---
+published: false
 layout: essay
 title: Shapes
 date: 2026-05-31

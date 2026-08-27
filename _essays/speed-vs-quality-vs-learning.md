@@ -29,27 +29,27 @@ date: 2026-05-30
 ## TL;DR
 
 - If you don't focus on your learning, your curiosity starts to die.
-- When AI can fix anything you ask and these systems are smarter than you, the real question becomes why learn at all — and no one but you has the incentive to answer it.
-- Your learning is naturally your priority and the company's is speed and quality — but they feed each other, and your priorities become the company's once you understand how these work and how you can make them work for you.
+- When AI can fix anything you ask and these systems are smarter than you, the real question becomes why learn at all. And no one but you has the incentive to answer it.
+- Your learning is naturally your priority and the company's is speed and quality. But they feed each other, and your priorities become the company's once you understand how these work and how you can make them work for you.
 - AI makes speed cheap but raises expectations 100x.
 - Learning is the lever that helps you keep up quality.
-- The triangle is not a problem to solve but a framework you operate in — these are the constraints in which you work.
+- The triangle is not a problem to solve but a framework you operate in. These are the constraints in which you work.
 
 ## Context
 
-At a startup, you are always navigating the tension between three things — speed, quality, and learning.
+At a startup, you are always navigating the tension between three things: speed, quality, and learning.
 
 ### Speed
 
 **Definition:** how fast you go.
 
-Speed is the most visible of the three. It is what everyone can see and measure — how fast you ship, how fast you respond, how fast you fix what breaks. The company rewards it because it is immediately useful to everyone around you.
+Speed is the most visible of the three. It is what everyone can see and measure: how fast you ship, how fast you respond, how fast you fix what breaks. The company rewards it because it is immediately useful to everyone around you.
 
 ### Quality
 
 **Definition:** how good the thing is.
 
-Quality is external — it belongs to the company and its output, not to you. Like speed, it is something other people can point at and judge, so it gets prioritized.
+Quality is external. It belongs to the company and its output, not to you. Like speed, it is something other people can point at and judge, so it gets prioritized.
 
 ### Learning
 
@@ -61,13 +61,13 @@ Learning is the one that gets abstracted away. It is a selfish desire, and the i
 
 The reality is companies want both 100% speed and 100% quality. But we are not superhuman. Where we lack in quality we try to make up for in speed, and where we lack in speed we try to make up for in quality. And if things do not make up for quality, we just try to fix it as fast as possible.
 
-Startups prioritize speed at unprecedented rates while telling you that quality is the most important thing. Now with AI, speed can happen at rates nobody expected. AI has increased our productivity, but it has also created more stressed-out people and a greater need to work more. Speed has accelerated not just tenfold but 100x, which can cause real anxiety — especially if you do not have your tooling right, or you are not experienced, or people do not actually tell you what to do.
+Startups prioritize speed at unprecedented rates while telling you that quality is the most important thing. Now with AI, speed can happen at rates nobody expected. AI has increased our productivity, but it has also created more stressed-out people and a greater need to work more. Speed has accelerated not just tenfold but 100x, which can cause real anxiety, especially if you do not have your tooling right, or you are not experienced, or people do not actually tell you what to do.
 
 And in all of this, your own learning gets overshadowed by the demands of making the company succeed. If you do not focus on it, something happens. Your curiosities start to die. Exploring them starts to feel pointless. You can feel dead inside.
 
 ## Solution
 
-There is a learning curve to speed itself. You often need to increase your learning of the concepts in order to do things more effectively and quickly — so learning is not opposed to speed, it is what unlocks it.
+There is a learning curve to speed itself. You often need to increase your learning of the concepts in order to do things more effectively and quickly. So learning is not opposed to speed, it is what unlocks it.
 
 Sometimes what is truly important is speed, and fixing things also at great speed when quality breaks down. That is how you meet the quality barrier. If you spend too much time perfecting quality and you never get things out, there is no way to see how people respond to it.
 

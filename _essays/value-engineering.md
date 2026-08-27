@@ -1,4 +1,5 @@
 ---
+published: false
 layout: essay
 title: "You give value, I give value, &#10022; BOOM!! &#10022;"
 date: 2026-05-22

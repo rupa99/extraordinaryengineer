@@ -1,4 +1,5 @@
 ---
+published: false
 layout: essay
 title: Acceleration and Multipliers
 date: 2026-05-19

@@ -1,4 +1,5 @@
 ---
+published: false
 layout: essay
 title: Where Do You Find Your Worth?
 date: 2026-05-23

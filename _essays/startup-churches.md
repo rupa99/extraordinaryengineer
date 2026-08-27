@@ -1,4 +1,5 @@
 ---
+published: false
 layout: essay
 title: Startup Churches
 date: 2026-05-31

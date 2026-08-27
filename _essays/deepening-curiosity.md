@@ -1,4 +1,5 @@
 ---
+published: false
 layout: essay
 title: When Curiosity Dies
 date: 2026-05-20

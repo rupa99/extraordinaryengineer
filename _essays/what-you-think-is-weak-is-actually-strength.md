@@ -1,4 +1,5 @@
 ---
+published: false
 layout: essay
 title: What You Think Is Weak Is Actually Strength
 date: 2026-05-30

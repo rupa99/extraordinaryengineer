@@ -1,4 +1,5 @@
 ---
+published: false
 layout: essay
 title: Prioritization
 date: 2026-05-29

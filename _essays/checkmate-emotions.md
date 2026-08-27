@@ -1,4 +1,5 @@
 ---
+published: false
 layout: essay
 title: "Checkmate: Emotions"
 date: 2026-05-30

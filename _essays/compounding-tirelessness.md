@@ -1,4 +1,5 @@
 ---
+published: false
 layout: essay
 title: Compounding Tirelessness
 date: 2026-05-28

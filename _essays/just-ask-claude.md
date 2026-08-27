@@ -1,4 +1,5 @@
 ---
+published: false
 layout: essay
 title: Just Ask Claude
 date: 2026-05-17

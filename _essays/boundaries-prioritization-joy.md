@@ -1,4 +1,5 @@
 ---
+published: false
 layout: essay
 title: Boundaries, Prioritization, Joy
 date: 2026-05-30
